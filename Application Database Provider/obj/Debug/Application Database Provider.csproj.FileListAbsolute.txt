@@ -1,0 +1,14 @@
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\Application Database Provider.exe.config
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\Application Database Provider.exe
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\Application Database Provider.pdb
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\Application Objects.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\EntityFramework.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\Application Objects.pdb
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\EntityFramework.xml
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\obj\Debug\Application Database Provider.csprojResolveAssemblyReference.cache
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\obj\Debug\Application Database Provider.exe
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\obj\Debug\Application Database Provider.pdb
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\Application_Database.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database Provider\bin\Debug\Application_Database.pdb

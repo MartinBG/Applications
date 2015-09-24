@@ -1,0 +1,23 @@
+<search-form></search-form>
+<div class="bodyDiv">
+    <table>
+        <tr>
+            <th>Registration Number</th>
+            <th>Post date</th>
+            <th>Sender</th>
+            <th>Subject</th>
+            <th>Edit</th>
+        </tr>
+        <tr ng-repeat="application in items">
+            <td>{{application.RegistrationNumber}}</td>
+            <td>{{application.PostDate}}</td>
+            <td>{{application.Sender}}</td>
+            <td>{{application.Subject}}</td>
+            <td>
+                <button edit-button ng-click="edit.EditSth(application)">Edit</button>
+                <button delete-button ng-click="delete.Delete(application, items)" >Delete</button>
+            </td>
+        </tr>
+    </table>
+    <button add-button ng-click="add.GoToAdd()" class="center-block">Add Application</button>
+</div>

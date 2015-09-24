@@ -1,0 +1,23 @@
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Application Server.dll.config
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Application Server.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Application Server.pdb
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Application Database Provider.exe
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Application Objects.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Newtonsoft.Json.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Net.Http.Formatting.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Web.Cors.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Web.Http.Cors.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Web.Http.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Web.Http.WebHost.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\EntityFramework.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Application Database Provider.pdb
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Application Objects.pdb
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Net.Http.Formatting.xml
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Web.Http.xml
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Web.Http.Cors.xml
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\Newtonsoft.Json.xml
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\System.Web.Http.WebHost.xml
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\bin\EntityFramework.xml
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\obj\Debug\Application Server.csprojResolveAssemblyReference.cache
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\obj\Debug\Application Server.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Server\obj\Debug\Application Server.pdb

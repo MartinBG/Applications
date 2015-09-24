@@ -1,0 +1,5 @@
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database\bin\Debug\Application Database.dacpac
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database\bin\Debug\Application_Database.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database\bin\Debug\Application_Database.pdb
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database\obj\Debug\Application_Database.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Database\obj\Debug\Application_Database.pdb

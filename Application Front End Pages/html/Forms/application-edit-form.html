@@ -1,0 +1,28 @@
+<div>
+    Sender: <input type="text"
+                    name="Sender"
+                    ng-model="editView.Application.Sender"
+                    ng-maxlength="30"
+                    required>
+    <div ng-show="ApplicationForm.Sender.$error.maxlength && ApplicationForm.Sender.$dirty">
+        The Subject cannot be more than 30 characters!
+    </div>
+
+    <div ng-show="ApplicationForm.Sender.$error.required && ApplicationForm.Sender.$dirty">
+        Subject cannot be left blank!
+    </div>
+    <br>
+
+    Subject: <input type="text"
+                                name="Subject"
+                                ng-model="editView.Application.Subject"
+                                ng-maxlength="30"
+                                required>
+    <div ng-show="ApplicationForm.Subject.$error.maxlength && ApplicationForm.Subject.$dirty">
+        The Subject cannot be more than 30 characters!
+    </div>
+
+    <div ng-show="ApplicationForm.Subject.$error.required && ApplicationForm.Subject.$dirty">
+        Subject cannot be left blank!
+    </div>
+</div>

@@ -1,0 +1,25 @@
+<div class="bodyDiv">
+    <h3>Filter</h3>
+    <form class="text-center" name="SearchForm">
+        Subject: <input type="text"
+                         name="Subject"
+                         ng-model="search.filterObject.subject"
+                         ng-maxlength="30">
+
+        <div ng-show="SearchForm.Subject.$error.maxlength && LoginForm.Username.$dirty">
+            The Subject cannot be more than 30 characters!
+        </div>
+        <br>
+
+
+        From Date: <input type="date"
+                                    name="startDate"
+                                    ng-model="search.filterObject.newInterval.startDate">
+        <br>
+        To Date: <input type="date"
+                                    name="endDate"
+                                    ng-model="search.filterObject.newInterval.endDate">
+        <br>
+        <button filter-button ng-click="filter.LoadNewContent(search.filterObject)">Filter</button>
+    </form>
+</div>

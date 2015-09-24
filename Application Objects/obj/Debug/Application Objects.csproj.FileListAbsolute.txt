@@ -1,0 +1,5 @@
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Objects\bin\Debug\Application Objects.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Objects\bin\Debug\Application Objects.pdb
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Objects\obj\Debug\Application Objects.csprojResolveAssemblyReference.cache
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Objects\obj\Debug\Application Objects.dll
+c:\users\martin.georgiev\documents\visual studio 2013\Projects\Application Project\Application Objects\obj\Debug\Application Objects.pdb
